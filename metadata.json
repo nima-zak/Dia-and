@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy School Adventure",
+  "description": "Control 5 unique characters with distinct personalities in an animated 2D fantasy school adventure. Manage choices and track F&K scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
